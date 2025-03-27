@@ -1,0 +1,15 @@
+[package]
+name = "Verifiable-digital-diplomas-using-Aptos"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ="0xf1e3dda029929e7c2bf4dd0f5c5cca4e4dea284057fcfbe27afe2b5790b2aa92"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
