@@ -13,6 +13,6 @@ The goal is to eliminate diploma fraud and provide a verifiable, decentralized, 
 - AI-powered verification of academic records
 
 ## Contract Details
-**Contract Address:** [0xf1e3dda029929e7c2bf4dd0f5c5cca4e4dea284057fcfbe27afe2b5790b2aa92]
+**Contract Address:** [0xca87b13611adc5082ae1c34074a72a9d8f5662967f6b586a3e2f981cbf0e761d]
 
 ![image](https://github.com/user-attachments/assets/f4643da3-6818-4965-94f5-fc02b99ab3d0)
